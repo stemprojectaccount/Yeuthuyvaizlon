@@ -7,7 +7,7 @@ const FLOATING_TEXTS = [
 ];
 
 // Link ảnh thật của T mà bạn đã thay
-const T_IMAGE_URL = "https://i.postimg.cc/wv1j3x0q/Thiet-ke-chua-co-ten-(6).png";
+const T_IMAGE_URL = "https://i.postimg.cc/fT9SBC7z/Thiet-ke-chua-co-ten-(7).png";
 
 const FloatingWord = ({ text, delay }: { text: string, delay: number }) => {
   const startX = Math.random() * 100;
